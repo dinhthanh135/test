@@ -4,7 +4,7 @@
   "main": "./lib/dinhthanh135",
   "description": "Keep the opened tabs amount below specified limit",
   "license": "MIT",
-  "repository": "https://github.com/dinhthanh135/test",
+  "repository": "https://atom.io/users/dinhthanh135",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
