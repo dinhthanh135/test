@@ -1,5 +1,11 @@
+
 {
-  "atom-workspace": {
-    "ctrl-alt-p": "test:toggle"
-  }
-}
+  "name": "test1",
+  "version": "0.8.9",
+  "main": "./lib/zentabs",
+  "description": "Keep the opened tabs amount below specified limit",
+  "license": "MIT",
+  "repository": "https://github.com/ArnaudRinquin/atom-zentabs",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
