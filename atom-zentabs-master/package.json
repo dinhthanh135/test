@@ -1,5 +1,5 @@
 {
-  "name": "zentabs121",
+  "name": "zentabs",
   "version": "0.8.9",
   "main": "./lib/zentabs",
   "description": "Keep the opened tabs amount below specified limit",
